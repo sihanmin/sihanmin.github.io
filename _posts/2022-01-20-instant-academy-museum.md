@@ -17,11 +17,11 @@ comments: false
 	<a href="http://sihanmin.github.io/instant/academy-musuem/1.jpg"><img src="http://sihanmin.github.io/instant/academy-museum/1.jpg"></a>
 </figure>
 <figure>
-	<a href="http://sihanmin.github.io/instant/academy-museum/2.jpg"><img src="http://sihanmin.github.io/instant/academy-museum/2.jpg"></a>
+	<a href="http://sihanmin.github.io/instant/academy-musuem/2.jpg"><img src="http://sihanmin.github.io/instant/academy-musuem/2.jpg"></a>
 </figure>
 <figure>
-	<a href="http://sihanmin.github.io/instant/academy-museum/3.jpg"><img src="http://sihanmin.github.io/instant/academy-museum/3.jpg"></a>
+	<a href="http://sihanmin.github.io/instant/academy-musuem/3.jpg"><img src="http://sihanmin.github.io/instant/academy-musuem/3.jpg"></a>
 </figure>
 <figure>
-	<a href="http://sihanmin.github.io/instant/academy-museum/4.jpg"><img src="http://sihanmin.github.io/instant/academy-museum/4.jpg"></a>
+	<a href="http://sihanmin.github.io/instant/academy-musuem/4.jpg"><img src="http://sihanmin.github.io/instant/academy-musuem/4.jpg"></a>
 </figure>

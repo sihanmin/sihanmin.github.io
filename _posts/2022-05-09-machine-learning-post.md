@@ -4,6 +4,7 @@ title: "Machine Learning"
 date: 2022-05-09
 excerpt: "Machine Learning Projects by Sihan Min"
 tags: [machine learning]
+project: true
 comments: true
 ---
 

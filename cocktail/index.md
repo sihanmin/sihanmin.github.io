@@ -5,7 +5,7 @@ tags: [about]
 date: 2022-05-09
 comments: false
 ---
-<p align="center">
+
 
     ## Long Drink
     ### Mojito 
@@ -119,4 +119,4 @@ comments: false
     * 50ml Sparkling Wine
     * 25ml Orange Juice
     * Orange Twist
-</p>
+

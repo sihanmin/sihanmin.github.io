@@ -34,6 +34,7 @@ comments: false
 * 15ml Sugar Syrup
 * Soda Water
 * Different colors available when I'm in a good mood 
+## 
 
 ## Shot
 ### B52
@@ -41,6 +42,8 @@ comments: false
 * 15ml Baileys Irish Cream
 * 15ml Coffee Liquor
 * Ignition Available if you tell me a joke and make me laugh
+
+## 
 
 ## Short Drink
 ### Margarita
@@ -79,6 +82,8 @@ comments: false
 * 15-20ml Cointreau
 * 15ml Lemon Juice
 
+##
+
 ## Classics
 ### Old Fashion
 * 75ml Bourbon Whiskey
@@ -100,6 +105,8 @@ comments: false
 * 60ml Vodka
 * 20ml Coffee Liquor
 
+##
+
 ## Wine
 ### French75
 * 30ml Gin
@@ -118,12 +125,14 @@ comments: false
 * 25ml Orange Juice
 * Orange Twist
 
-## House Specials
-### Anything You Want
+##
+
+# House Specials
+## Anything You Want
 * Need to let me know in advance
 * Not Gauranteed!
 
-### Cocktail Omakase
+## Cocktail Omakase
 * Invitation Only
 * Bring your own food
 * All drinks on me

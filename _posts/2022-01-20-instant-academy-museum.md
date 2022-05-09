@@ -12,9 +12,7 @@ comments: false
 <figure>
 	<a href="http://sihanmin.github.io/instant/academy-musuem/am.jpg"><img src="http://sihanmin.github.io/instant/academy-musuem/am.jpg"></a>
 </figure>
-<figure>
-	<a href="http://sihanmin.github.io/instant/academy-musuem/4.jpg"><img src="http://sihanmin.github.io/instant/academy-musuem/4.jpg"></a>
-</figure>
+
 <figure>
 	<a href="http://sihanmin.github.io/instant/academy-musuem/1.jpg"><img src="http://sihanmin.github.io/instant/academy-musuem/1.jpg"></a>
 </figure>

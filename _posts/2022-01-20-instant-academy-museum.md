@@ -7,6 +7,8 @@ instant: true
 comments: false
 ---
 
+### Los Angeles, CA
+
 <figure>
 	<a href="http://sihanmin.github.io/instant/academy-museum/am.jpg"><img src="http://sihanmin.github.io/instant/academy-museum/am.jpg"></a>
 </figure>

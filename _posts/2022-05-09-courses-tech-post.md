@@ -3,6 +3,7 @@ layout: post
 title: "Courses and Skills"
 date: 2022-05-09
 excerpt: "Academic Courses and Technical Skills of Sihan Min"
+project: true
 comments: true
 ---
 ## Academic Courses

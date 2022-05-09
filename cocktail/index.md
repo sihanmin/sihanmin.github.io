@@ -6,116 +6,117 @@ date: 2022-05-09
 comments: false
 ---
 <p align="center">
-## Long Drink
-### Mojito 
-* Mint Leafs
-* 45ml Rum
-* 30ml Lime Juice
-* Soda Water
-* Fruit flavor available if you bring the fruit
 
-### Long Island Ice Tea
-* 15ml Vodka
-* 15ml Gin
-* 15ml Tequila
-* 15ml Rum
-* 15ml Cointreau
-* 15ml Lemon Juice
-* Coke
+    ## Long Drink
+    ### Mojito 
+    * Mint Leafs
+    * 45ml Rum
+    * 30ml Lime Juice
+    * Soda Water
+    * Fruit flavor available if you bring the fruit
 
-### Tequila Sunrise
-* 45ml Tequila
-* 10ml Grenadine Syrup
-* Orange Juice
+    ### Long Island Ice Tea
+    * 15ml Vodka
+    * 15ml Gin
+    * 15ml Tequila
+    * 15ml Rum
+    * 15ml Cointreau
+    * 15ml Lemon Juice
+    * Coke
 
-### Gin Fizz
-* 45ml Gin
-* 15ml Lemon Juice
-* 15ml Sugar Syrup
-* Soda Water
-* Different colors available when I'm in a good mood 
+    ### Tequila Sunrise
+    * 45ml Tequila
+    * 10ml Grenadine Syrup
+    * Orange Juice
 
-## Shot
-### B52
-* 15ml Vodka
-* 15ml Baileys Irish Cream
-* 15ml Coffee Liquor
-* Ignition Available if you tell me a joke and make me laugh
+    ### Gin Fizz
+    * 45ml Gin
+    * 15ml Lemon Juice
+    * 15ml Sugar Syrup
+    * Soda Water
+    * Different colors available when I'm in a good mood 
 
-## Short Drink
-### Margarita
-* 45ml Tequila
-* 20ml Lime Juice
-* 20ml Cointreau
-* Salt
+    ## Shot
+    ### B52
+    * 15ml Vodka
+    * 15ml Baileys Irish Cream
+    * 15ml Coffee Liquor
+    * Ignition Available if you tell me a joke and make me laugh
 
-### Sweet Dream
-* 20ml Creme de Cacao
-* 60ml Milk
-* Chocolate Toppings
+    ## Short Drink
+    ### Margarita
+    * 45ml Tequila
+    * 20ml Lime Juice
+    * 20ml Cointreau
+    * Salt
 
-### Grasshopper
-* 20ml Creme de Menthe
-* 20ml Creme de Cacao
-* 30ml Heavy Cream
+    ### Sweet Dream
+    * 20ml Creme de Cacao
+    * 60ml Milk
+    * Chocolate Toppings
 
-### Daiquiri
-* 45ml Rum
-* 15ml Sugar Syrup
-* 15ml Lime Juice
+    ### Grasshopper
+    * 20ml Creme de Menthe
+    * 20ml Creme de Cacao
+    * 30ml Heavy Cream
 
-### Dry Martini
-* 60ml Gin
-* 20ml Dry Vermonth
-* 4 dashes Bitter
+    ### Daiquiri
+    * 45ml Rum
+    * 15ml Sugar Syrup
+    * 15ml Lime Juice
 
-### Gimlet
-* 45ml Gin
-* 15ml Sugar Syrup
-* 15ml Lime Juice
+    ### Dry Martini
+    * 60ml Gin
+    * 20ml Dry Vermonth
+    * 4 dashes Bitter
 
-### Sidecar
-* 45ml Brandy/Armagnac
-* 15-20ml Cointreau
-* 15ml Lemon Juice
+    ### Gimlet
+    * 45ml Gin
+    * 15ml Sugar Syrup
+    * 15ml Lime Juice
 
-## Classics
-### Old Fashion
-* 75ml Bourbon Whiskey
-* 4 dashes Bitter
-* 1 Sugar Cube
-* Orange Twist
+    ### Sidecar
+    * 45ml Brandy/Armagnac
+    * 15-20ml Cointreau
+    * 15ml Lemon Juice
 
-### Godfather
-* 60ml Bourbon Whiskey
-* 20ml Disaronno
+    ## Classics
+    ### Old Fashion
+    * 75ml Bourbon Whiskey
+    * 4 dashes Bitter
+    * 1 Sugar Cube
+    * Orange Twist
 
-### White Russian
-* 45ml Vodka
-* 15ml Coffee Liquor
-* 20ml Baileys Irish Cream
-* Or 30ml Milk
+    ### Godfather
+    * 60ml Bourbon Whiskey
+    * 20ml Disaronno
 
-### Black Russian
-* 60ml Vodka
-* 20ml Coffee Liquor
+    ### White Russian
+    * 45ml Vodka
+    * 15ml Coffee Liquor
+    * 20ml Baileys Irish Cream
+    * Or 30ml Milk
 
-## Wine
-### French75
-* 30ml Gin
-* 10ml Lemon Juice
-* 10ml Sugar Syrup
-* Sparkling Wine
+    ### Black Russian
+    * 60ml Vodka
+    * 20ml Coffee Liquor
 
-### Hugo
-* 30ml Apple Juice
-* 15ml St.Elder
-* Dry Sparkling Wine
-* Mint Leafs
+    ## Wine
+    ### French75
+    * 30ml Gin
+    * 10ml Lemon Juice
+    * 10ml Sugar Syrup
+    * Sparkling Wine
+
+    ### Hugo
+    * 30ml Apple Juice
+    * 15ml St.Elder
+    * Dry Sparkling Wine
+    * Mint Leafs
 
 
-### Mimosa
-* 50ml Sparkling Wine
-* 25ml Orange Juice
-* Orange Twist
+    ### Mimosa
+    * 50ml Sparkling Wine
+    * 25ml Orange Juice
+    * Orange Twist
 </p>

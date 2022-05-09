@@ -35,7 +35,6 @@ comments: false
 * Soda Water
 * Different colors available when I'm in a good mood 
 
-## 
 
 ## Shot
 ### B52
@@ -44,7 +43,6 @@ comments: false
 * 15ml Coffee Liquor
 * Ignition Available if you tell me a joke and make me laugh
 
-## 
 
 ## Short Drink
 ### Margarita
@@ -83,7 +81,6 @@ comments: false
 * 15-20ml Cointreau
 * 15ml Lemon Juice
 
-## 
 
 ## Classics
 ### Old Fashion
@@ -106,7 +103,6 @@ comments: false
 * 60ml Vodka
 * 20ml Coffee Liquor
 
-## 
 
 ## Wine
 ### French75
@@ -126,7 +122,6 @@ comments: false
 * 25ml Orange Juice
 * Orange Twist
 
-## 
 
 # House Specials
 ## Anything You Want

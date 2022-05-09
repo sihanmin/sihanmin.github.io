@@ -34,7 +34,8 @@ comments: false
 * Hip Hop Music
 * Badminton
 * Basketball
-* Longboard Skating
+* Longboard
+* Snowboard
 
 
 ## Resume

@@ -29,10 +29,10 @@ comments: false
 [Instant Film Portfolio](https://sihanmin.github.io/instant/){: .btn}
 
 #### Bartending
+Mini cocktail bar at my place, invitation only.
 [Cocktail Menu](https://sihanmin.github.io/cocktail/){: .btn}
 
 #### Others
-* Bartending
 * Chinese Calligraphy
 * Hip Hop Music
 * Badminton

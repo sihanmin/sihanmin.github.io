@@ -6,7 +6,6 @@ date: 2022-05-09
 comments: false
 ---
 
-
 ## Long Drink
 ### Mojito 
 * Mint Leafs
@@ -114,9 +113,18 @@ comments: false
 * Dry Sparkling Wine
 * Mint Leafs
 
-
 ### Mimosa
 * 50ml Sparkling Wine
 * 25ml Orange Juice
 * Orange Twist
 
+## House Specials
+### Anything You Want
+* Need to let me know in advance
+* Not Gauranteed!
+
+### Cocktail Omakase
+* Invitation Only
+* Bring your own food
+* All drinks on me
+* Empty your cup

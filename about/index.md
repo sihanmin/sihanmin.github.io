@@ -21,6 +21,7 @@ comments: false
 * Genre: Jazz Hiphop Kpop Pole
 * Ex member of UCLA [ModernX](https://www.youtube.com/channel/UCB9BrzoqaHIm_H0ug1yydFQ), the 1st Chinese Students Modern Dance Team.
 * Co-Founder of Cornell [Free Space Dance](https://cornell.campusgroups.com/space/club_signup), a fast-growing all-level dance club with over a hundred members.
+
 [Dance Portfolio](https://github.com/sihanmin/dance/){: .btn}
 
 #### Photography

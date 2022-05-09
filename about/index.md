@@ -1,37 +1,42 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Me
+tags: [about]
+date: 2022-05-09
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="http://sihanmin.github.io">You are in <b>Mint</b> Fantasy Land</a></center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Academics
+### University of California, Los Angeles
+* Sep 2016 - Mar 2021
+* B.S. in Computer Science & Applied Mathematics
+### Cornell University
+* Aug 2021 - Dec 2022 Expected
+* M.Eng. in Financial Engineering (with Financial Data Science Certificate)
 
-## Preview
+## Interests
+#### Dancing
+Jazz Hiphop Kpop Pole
+Ex member of UCLA [ModernX](https://www.youtube.com/channel/UCB9BrzoqaHIm_H0ug1yydFQ), the 1st Chinese Students Modern Dance Team.
+Co-Founder of Cornell [Free Space Dance](https://cornell.campusgroups.com/space/club_signup), a fast-growing all-level dance club with over a hundred members.
+[Dance Portfolio](https://github.com/sihanmin/dance/){: .btn}
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+#### Photography
+[DSLR Portfolio](https://github.com/sihanmin/dslr/){: .btn}
+[Instant Film Portfolio](https://github.com/sihanmin/instant/){: .btn}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+#### Others
+* Bartending
+* Chinese Calligraphy
+* Hip Hop Music
+* Badminton
+* Basketball
+* Longboard Skating
 
-## Getting Started
+## Resume
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+To learn more about me please download my resume.
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+[Download Resume](https://github.com/sihanmin/Assets/resume.pdf){: .btn}

@@ -2,7 +2,7 @@
 layout: post
 title: "Academy Museum"
 date: 2022-01-20
-excerpt: <img src="http://sihanmin.github.io/instant/academy-museum/am.jpg">
+excerpt: <img src="http://sihanmin.github.io/instant/academy-musuem/am.jpg">
 instant: true
 comments: false
 ---

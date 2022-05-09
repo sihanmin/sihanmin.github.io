@@ -40,7 +40,7 @@ Mini cocktail bar at my place, invitation only.
 * Basketball
 * Longboard
 * Snowboard
-## 
+
 
 ## Resume
 

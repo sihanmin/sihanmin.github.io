@@ -1,4 +1,19 @@
 # Site navigation links
 
-- title: Projects
+- title: Home
+  url: /
+  
+- title: About
+  url: /about/
+
+- title: Academic Projects
   url: /projects/
+  
+- title: DLSR
+  url: /dlsr/
+  
+- title: Instant Films
+  url: /instant/
+  
+- title: Dance Portfolio
+  url: /dance/

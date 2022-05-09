@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Washington Sets - One"
-date: 2019-06-03
+date: 2019-07-03
 excerpt: <img src="http://sihanmin.github.io/instant/washington/1/w1.JPG">
 instant: true
 comments: false
 ---
-### Ithaca, NY
+### Seattle, WA
 
 <figure>
 	<a href="http://sihanmin.github.io/instant/washington/1/w1.JPG"><img src="http://sihanmin.github.io/instant/washington/1/w1.JPG"></a>

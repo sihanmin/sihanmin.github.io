@@ -2,7 +2,7 @@
 layout: post
 title: "Washington Sets - Two"
 date: 2019-07-14
-excerpt: <img src="http://sihanmin.github.io/instant/washington/1/w1.JPG">
+excerpt: <img src="http://sihanmin.github.io/instant/washington/2/w2.JPG">
 instant: true
 comments: false
 ---

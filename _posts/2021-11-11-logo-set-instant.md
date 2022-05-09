@@ -8,7 +8,7 @@ comments: false
 ---
 
 <figure>
-	<a href="http://sihanmin.github.io/instant/logoset/logoset.jpg"<img src="http://sihanmin.github.io/instant/logoset/logoset.jpg"></a>
+	<a href="http://sihanmin.github.io/instant/logoset/logoset.jpg"><img src="http://sihanmin.github.io/instant/logoset/logoset.jpg"></a>
 </figure>
 
 <figure>

@@ -4,6 +4,7 @@ title: "Software Development"
 date: 2022-05-09
 excerpt: "SDE Projects by Sihan Min"
 tags: [sde]
+project: true
 comments: true
 ---
 

@@ -41,4 +41,4 @@ comments: false
 
 To learn more about me please download my resume.
       
-[Download Resume](https://github.com/sihanmin/sihanmin.github.io/assets/resume.pdf){: .btn}
+[Download Resume](https://sihanmin.github.io/assets/resume.pdf){: .btn}

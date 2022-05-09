@@ -34,6 +34,7 @@ comments: false
 * 15ml Sugar Syrup
 * Soda Water
 * Different colors available when I'm in a good mood 
+
 ## 
 
 ## Shot
@@ -82,7 +83,7 @@ comments: false
 * 15-20ml Cointreau
 * 15ml Lemon Juice
 
-##
+## 
 
 ## Classics
 ### Old Fashion
@@ -105,7 +106,7 @@ comments: false
 * 60ml Vodka
 * 20ml Coffee Liquor
 
-##
+## 
 
 ## Wine
 ### French75
@@ -125,7 +126,7 @@ comments: false
 * 25ml Orange Juice
 * Orange Twist
 
-##
+## 
 
 # House Specials
 ## Anything You Want

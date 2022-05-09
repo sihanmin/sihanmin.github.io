@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mint Logo Neon Set"
+title: "MINT Logo Neon Set"
 date: 2021-11-11
 excerpt: <img src="http://sihanmin.github.io/instant/logoset/logoset.jpg">
 instant: true

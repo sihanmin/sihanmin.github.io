@@ -10,11 +10,11 @@ comments: false
 ### Los Angeles, CA
 
 <figure>
-	<a href="http://sihanmin.github.io/instant/academy-museum/am.jpg"><img src="http://sihanmin.github.io/instant/academy-museum/am.jpg"></a>
+	<a href="http://sihanmin.github.io/instant/academy-musuem/am.jpg"><img src="http://sihanmin.github.io/instant/academy-musuem/am.jpg"></a>
 </figure>
 
 <figure>
-	<a href="http://sihanmin.github.io/instant/academy-museum/1.jpg"><img src="http://sihanmin.github.io/instant/academy-museum/1.jpg"></a>
+	<a href="http://sihanmin.github.io/instant/academy-musuem/1.jpg"><img src="http://sihanmin.github.io/instant/academy-museum/1.jpg"></a>
 </figure>
 <figure>
 	<a href="http://sihanmin.github.io/instant/academy-museum/2.jpg"><img src="http://sihanmin.github.io/instant/academy-museum/2.jpg"></a>

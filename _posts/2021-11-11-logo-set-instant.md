@@ -6,6 +6,7 @@ excerpt: <img src="http://sihanmin.github.io/instant/logoset/logoset.jpg">
 instant: true
 comments: false
 ---
+### Ithaca, NY
 
 <figure>
 	<a href="http://sihanmin.github.io/instant/logoset/logoset.jpg"><img src="http://sihanmin.github.io/instant/logoset/logoset.jpg"></a>

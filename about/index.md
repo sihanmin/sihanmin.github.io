@@ -14,7 +14,7 @@ comments: false
 ### Cornell University
 * Aug 2021 - Dec 2022 Expected
 * M.Eng. in Financial Engineering (with Financial Data Science Certificate)
-* 
+
 
 ## Interests
 ### Dancing

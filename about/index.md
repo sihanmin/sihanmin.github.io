@@ -30,6 +30,7 @@ comments: false
 
 #### Bartending
 Mini cocktail bar at my place, invitation only.
+
 [Cocktail Menu](https://sihanmin.github.io/cocktail/){: .btn}
 
 #### Others

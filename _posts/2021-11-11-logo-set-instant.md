@@ -3,7 +3,7 @@ layout: post
 title: "Mint Logo Neon Set"
 date: 2021-11-11
 excerpt: <img src="http://sihanmin.github.io/instant/logoset/logoset.jpg">
-dslr: true
+instant: true
 comments: false
 ---
 

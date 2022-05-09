@@ -22,11 +22,11 @@ comments: false
 * Ex member of UCLA [ModernX](https://www.youtube.com/channel/UCB9BrzoqaHIm_H0ug1yydFQ), the 1st Chinese Students Modern Dance Team.
 * Co-Founder of Cornell [Free Space Dance](https://cornell.campusgroups.com/space/club_signup), a fast-growing all-level dance club with over a hundred members.
 
-[Dance Portfolio](https://github.com/sihanmin/dance/){: .btn}
+[Dance Portfolio](https://sihanmin.github.io/dance/){: .btn}
 
 #### Photography
-[DSLR Portfolio](https://github.com/sihanmin/dslr/){: .btn}
-[Instant Film Portfolio](https://github.com/sihanmin/instant/){: .btn}
+[DSLR Portfolio](https://sihanmin.github.io/dslr/){: .btn}
+[Instant Film Portfolio](https://sihanmin.github.io/instant/){: .btn}
 
 #### Others
 * Bartending

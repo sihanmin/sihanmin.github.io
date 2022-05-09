@@ -1,6 +1,6 @@
 ---
 layout: post-list
 title: Academic Projects
-excerpt: "A List of Posts"
+excerpt: "A List of Projects"
 comments: false
 ---

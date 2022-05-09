@@ -20,8 +20,10 @@ layout: compress
                     <h4>{{ page.date | date_to_string }}</h4>
                     {% if page.project %}
                     <a class="btn zoombtn" href="{{site.url}}/projects/">
+                    {% endif %}
                     {% if page.dslr %}
                     <a class="btn zoombtn" href="{{site.url}}/dslr/">
+                    {% endif %}
                     {% if page.dance %}
                     <a class="btn zoombtn" href="{{site.url}}/dance/">
                     {% endif %}

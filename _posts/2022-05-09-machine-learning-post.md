@@ -5,7 +5,7 @@ date: 2022-05-09
 excerpt: "Machine Learning Projects by Sihan Min"
 tags: [machine learning]
 project: true
-comments: true
+comments: false
 ---
 
 ### Node Embedding for Large-Scaled Knowledge Graph

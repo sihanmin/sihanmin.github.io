@@ -1,7 +1,7 @@
 # Site navigation links
 
 - title: Academic Projects
-  url: /post/
+  url: /posts/
   
 - title: DSLR
   url: /dslr/
@@ -9,5 +9,5 @@
 - title: Instant Films
   url: /instant/
   
-- title: Dance Portfolio
+- title: Dancing
   url: /dance/

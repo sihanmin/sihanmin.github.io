@@ -5,8 +5,6 @@ tags: [about]
 date: 2022-05-09
 comments: false
 ---
-    
-<center><a href="http://sihanmin.github.io">You are in <b>Mint</b> Fantasy Land</a></center>
 
 ## Academics
 ### University of California, Los Angeles
@@ -16,6 +14,7 @@ comments: false
 ### Cornell University
 * Aug 2021 - Dec 2022 Expected
 * M.Eng. in Financial Engineering (with Financial Data Science Certificate)
+
 
 ## Interests
 ### Dancing
@@ -36,8 +35,9 @@ comments: false
 * Basketball
 * Longboard Skating
 
+
 ## Resume
 
 To learn more about me please download my resume.
       
-[Download Resume](https://github.com/sihanmin/assets/resume.pdf){: .btn}
+[Download Resume](https://github.com/sihanmin/sihanmin.github.io/assets/resume.pdf){: .btn}

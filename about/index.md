@@ -12,15 +12,16 @@ comments: false
 ### University of California, Los Angeles
 * Sep 2016 - Mar 2021
 * B.S. in Computer Science & Applied Mathematics
+
 ### Cornell University
 * Aug 2021 - Dec 2022 Expected
 * M.Eng. in Financial Engineering (with Financial Data Science Certificate)
 
 ## Interests
-#### Dancing
-Jazz Hiphop Kpop Pole
-Ex member of UCLA [ModernX](https://www.youtube.com/channel/UCB9BrzoqaHIm_H0ug1yydFQ), the 1st Chinese Students Modern Dance Team.
-Co-Founder of Cornell [Free Space Dance](https://cornell.campusgroups.com/space/club_signup), a fast-growing all-level dance club with over a hundred members.
+### Dancing
+* Genre: Jazz Hiphop Kpop Pole
+* Ex member of UCLA [ModernX](https://www.youtube.com/channel/UCB9BrzoqaHIm_H0ug1yydFQ), the 1st Chinese Students Modern Dance Team.
+* Co-Founder of Cornell [Free Space Dance](https://cornell.campusgroups.com/space/club_signup), a fast-growing all-level dance club with over a hundred members.
 [Dance Portfolio](https://github.com/sihanmin/dance/){: .btn}
 
 #### Photography
@@ -39,4 +40,4 @@ Co-Founder of Cornell [Free Space Dance](https://cornell.campusgroups.com/space/
 
 To learn more about me please download my resume.
       
-[Download Resume](https://github.com/sihanmin/Assets/resume.pdf){: .btn}
+[Download Resume](https://github.com/sihanmin/assets/resume.pdf){: .btn}

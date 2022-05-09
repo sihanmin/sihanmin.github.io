@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Academy Museum"
+title: "Roof TOP"
 date: 2022-01-20
 excerpt: <img src="http://sihanmin.github.io/instant/academy-musuem/am.jpg">
 instant: true
 comments: false
 ---
 
-### Los Angeles, CA
+### Academy Museum, Los Angeles, CA
 
 <figure>
 	<a href="http://sihanmin.github.io/instant/academy-musuem/am.jpg"><img src="http://sihanmin.github.io/instant/academy-musuem/am.jpg"></a>

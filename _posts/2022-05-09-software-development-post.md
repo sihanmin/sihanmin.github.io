@@ -5,7 +5,7 @@ date: 2022-05-09
 excerpt: "SDE Projects by Sihan Min"
 tags: [sde]
 project: true
-comments: true
+comments: false
 ---
 
 ### Twitter Stream Real-time Data Pipelines

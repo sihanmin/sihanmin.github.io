@@ -2,12 +2,9 @@
 layout: post
 title:  "Flower Shower - HyunA"
 date:   2019-11-11
-excerpt: ""
-tag:
-- sample
-- post
-- video
-comments: true
+excerpt: <iframe width="560" height="315" src="//www.youtube.com/embed/VhMUjwwrsOw" frameborder="0"> </iframe>
+dance: true
+comments: false
 ---
 <iframe width="560" height="315" src="//www.youtube.com/embed/VhMUjwwrsOw" frameborder="0"> </iframe>
 

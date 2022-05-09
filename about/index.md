@@ -14,7 +14,7 @@ comments: false
 ### Cornell University
 * Aug 2021 - Dec 2022 Expected
 * M.Eng. in Financial Engineering (with Financial Data Science Certificate)
-
+## 
 
 ## Interests
 ### Dancing
@@ -24,23 +24,23 @@ comments: false
 
 [Dance Portfolio](https://sihanmin.github.io/dance/){: .btn}
 
-#### Photography
+### Photography
 [DSLR Portfolio](https://sihanmin.github.io/dslr/){: .btn}
 [Instant Film Portfolio](https://sihanmin.github.io/instant/){: .btn}
 
-#### Bartending
+### Bartending
 Mini cocktail bar at my place, invitation only.
 
 [Cocktail Menu](https://sihanmin.github.io/cocktail/){: .btn}
 
-#### Others
+### Others
 * Chinese Calligraphy
 * Hip Hop Music
 * Badminton
 * Basketball
 * Longboard
 * Snowboard
-
+## 
 
 ## Resume
 

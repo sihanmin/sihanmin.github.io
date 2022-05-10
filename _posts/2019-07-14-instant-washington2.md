@@ -10,7 +10,7 @@ comments: false
 
 <figure>
 	<a href="http://sihanmin.github.io/instant/washington/2/w2.JPG"><img src="http://sihanmin.github.io/instant/washington/2/w2.JPG"></a>
-</figure
+</figure>
 
 <figure>
 	<a href="http://sihanmin.github.io/instant/washington/2/1.JPG"><img src="http://sihanmin.github.io/instant/washington/2/1.JPG"></a>

@@ -11,6 +11,7 @@ comments: false
 * Mint Leafs
 * 45ml Rum
 * 30ml Lime Juice
+* 25ml Sugar Syrup
 * Soda Water
 * Fruit flavor available if you bring the fruit
 
